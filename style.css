@@ -120,6 +120,17 @@ body {
     color: #00479A;
 }
 
+.rock {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.rock img {
+    display: block;
+    margin: auto;
+}
+
+
 .variable-fonts {
     height: 650px;
     border: 3px solid #00479A;
